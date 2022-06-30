@@ -1,0 +1,14 @@
+.container {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  margin: 50px auto;
+}
+
+.read {
+  margin-top: 20px;
+}
+.pagination {
+  width: 20%;
+  margin: 0 auto;
+}
